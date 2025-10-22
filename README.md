@@ -73,9 +73,8 @@ data:
 
 ---
 ### 🚀 Usage
-```
-python eval/eval_run.py
-```
+
+```python eval/eval_run.py```
 
 Run Full Multi-Agent Meme Generation
 
