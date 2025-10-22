@@ -1,6 +1,6 @@
 # 🧠 SciMemeX: Automatic Generation of Scientific Memes from Research Articles
 
-> **Paper**: *Breaking Bored? SciMemeX: Towards Automatic Generation of Scientific Memes from Research Articles (ACL 2026 submission)*  
+> **Paper**: *Breaking Bored? SciMemeX: Towards Automatic Generation of Scientific Memes from Research Articles*  
 > **Framework**: Modular Multi-Agent System for Contrastive Meme Generation  
 > **Key Components**: LLM-based Summarization, Template Selection, Meme Generation, and Evaluation
 
@@ -71,7 +71,7 @@ data:
   path: "./papers_json/"
   amount: 1000
 
-
+---
 ### 🚀 Usage
 ```
 python eval/eval_run.py
